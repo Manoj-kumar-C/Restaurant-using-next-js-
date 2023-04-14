@@ -78,7 +78,7 @@ const products = [
      image01: product_05_image_01,
      image02: product_05_image_02,
      image03: product_05_image_03,
-     category: "Burger",
+     category: "Healthy",
 
     desc: "This deluxe thali is sure to satiate you with a bonus of amazing tasty combination of soft parathas, comforting jeera pulao, kadhai paneer, dal makhani, aloo gobhi adraki, salad and badam kheer.Served with Pickle of the day",
   },
